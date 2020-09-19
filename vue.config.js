@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath:'./'
+  publicPath:'./',
+  host:'https://cxfeng.xyz'
 }
